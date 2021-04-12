@@ -18,3 +18,8 @@
 
 - That means that I can access variables while inside of a JSX expression, even if those variables were declared on the outside.
 
+## Variable Attributes in JSX
+
+[Variable Attributes in JSX](https://github.com/briansegs/learn-react/tree/main/advanced-react/variable-attributes-in-jsx)
+
+- When writing JSX, it’s common to use variables to set attributes.
