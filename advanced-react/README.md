@@ -23,3 +23,21 @@
 [Variable Attributes in JSX](https://github.com/briansegs/learn-react/tree/main/advanced-react/variable-attributes-in-jsx)
 
 - When writing JSX, it’s common to use variables to set attributes.
+
+## Event Listeners in JSX
+
+[Event Listeners in JSX](https://github.com/briansegs/learn-react/tree/main/advanced-react/event-listeners-in-jsx)
+
+- JSX elements can have event listeners, just like HTML elements can. Programming in React means constantly working with event listeners.
+
+- I create an event listener by giving a JSX element a special attribute. Here’s an example:
+
+```js
+function myFunc() {
+  alert('Make myFunc the pFunc... omg that was horrible i am so sorry');
+}
+
+<img onClick={myFunc} />
+```
+
+- Note that in HTML, event listener names are written in all lowercase, such as `onclick` or `onmouseover`. In JSX, event listener names are written in camelCase, such as `onClick` or `onMouseOver`.
