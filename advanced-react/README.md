@@ -41,3 +41,11 @@ function myFunc() {
 ```
 
 - Note that in HTML, event listener names are written in all lowercase, such as `onclick` or `onmouseover`. In JSX, event listener names are written in camelCase, such as `onClick` or `onMouseOver`.
+
+## JSX Conditionals
+
+[JSX Conditionals](https://github.com/briansegs/learn-react/tree/main/advanced-react/jsx-conditionals)
+
+- How can you write a conditional, if you can’t inject an `if` statement into JSX? Well, one option is to write an `if` statement, and not inject it into JSX.
+
+- The words `if` and `else` should not be injected in between JSX tags. The `if` statement should be on the outside, and no JavaScript injection is necessary.
