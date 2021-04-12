@@ -8,13 +8,13 @@
 
 - I need a way to write code that says, “Even though I am located in between JSX tags, treat me like ordinary JavaScript and not like JSX.”
 
-- I can do this by wrapping your code in curly braces.
+- I can do this by wrapping my code in curly braces.
 
 ## Variables in JSX
 
 [Variables in JSX](https://github.com/briansegs/learn-react/tree/main/advanced-react/variables-in-jsx)
 
-- When I inject JavaScript into JSX, that JavaScript is part of the same environment as the rest of the JavaScript in your file.
+- When I inject JavaScript into JSX, that JavaScript is part of the same environment as the rest of the JavaScript in my file.
 
 - That means that I can access variables while inside of a JSX expression, even if those variables were declared on the outside.
 
