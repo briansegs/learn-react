@@ -57,3 +57,9 @@ function myFunc() {
 - There’s a more compact way to write conditionals in JSX: the ternary operator.
 
 - The ternary operator works the same way in React as it does in regular JavaScript. However, it shows up in React surprisingly often.
+
+## Project - Animal Fun Facts
+
+[Animal Fun Facts](https://github.com/briansegs/learn-react/tree/main/advanced-react/project_animal-fun-facts)
+
+- In this project, I built a program that allows users to click an animal on the screen in order to have a fun fact pop up.
